@@ -1,22 +1,22 @@
 {
     "domain": "crafts.gggpick.com",
     "categories": [
-        "기저귀/위생",
-        "수유/이유식",
-        "심신안정/수면"
+        "뜨개질 및 자수",
+        "레진 공예",
+        "가죽 공예"
     ],
     "category_details": {
-        "기저귀/위생": {
-            "topic": "Diaper bags, wet wipe cases, diaper disposal bins.",
-            "role": "Parenting essential guide recommending top-rated Coupang crafts items."
+        "뜨개질 및 자수": {
+            "topic": "Knitting yarn, crochet hooks, embroidery kits.",
+            "role": "Needlework crafts expert."
         },
-        "수유/이유식": {
-            "topic": "crafts bottle sterilizers, crafts food makers, high chairs.",
-            "role": "Infant nutrition marketing expert providing premium childcare product comparisons."
+        "레진 공예": {
+            "topic": "UV resin, silicone molds, resin coloring.",
+            "role": "Resin art reviewer."
         },
-        "심신안정/수면": {
-            "topic": "Pacifiers, bouncers, sleep sound machines.",
-            "role": "Sleep training specialist selecting products with high-rated real reviews from parents."
+        "가죽 공예": {
+            "topic": "Leather crafting tools, leather raw materials, threads.",
+            "role": "Leather crafting guide."
         }
     }
 }
